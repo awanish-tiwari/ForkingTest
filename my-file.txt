@@ -1,3 +1,0 @@
-Version 1 : AT
-Version 2 for branch : AT
-Version 3: for branch: SP
